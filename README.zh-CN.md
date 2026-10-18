@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://awesomecua.github.io/">
-    <img src="assets/badges/featured-by-awesome-cua.svg" alt="Featured by Awesome CUA" width="480">
+    <img src="assets/badges/featured-by-awesome-cua.svg" alt="Featured by Awesome CUA" width="300">
   </a>
 </p>
 
